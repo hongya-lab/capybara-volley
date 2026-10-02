@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "카피바라 비치발리",
+  "short_name": "비치발리",
+  "description": "로그인 없이 친구와 방 코드로 붙는 해변 배구 게임",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "any",
+  "background_color": "#E3F0F5",
+  "theme_color": "#1B97BB",
+  "categories": ["games", "sports"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
